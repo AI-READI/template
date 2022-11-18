@@ -20,7 +20,7 @@
   </tr>
   
   <tr>
-    <td> Make the GitHub repository public from day 1 </td>
+    <td> 1.c. Make the GitHub repository public from day 1 </td>
     <td> Yes </td>
     <td> My GitHub repository has been public from day 1 </td>
   </tr>
