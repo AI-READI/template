@@ -2,7 +2,7 @@
 <thead>
   <tr>
     <th> Best practice </th>
-    <th> Are you complying (Yes/No)? </th>
+    <th> Are you complying (Yes/No/NA)? </th>
     <th> Explain how/where </th>
   </tr>
 </thead>
