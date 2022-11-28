@@ -52,7 +52,7 @@ Project one-liner description
 
 ## Description
 
-Add a description of your project here. Template repository for the AI-READI project
+Add a description of your project here. This is template repository for the AI-READI project to help start with our [best practices](https://github.com/AI-READI/software-development-best-practices)
 
 ## Getting started
 
@@ -95,7 +95,7 @@ This work is licensed under
 
 ## How to cite
 
-If you are following these best practices or reusing them for any purpose, please cite:
+If you are using this software or reusing the source code from this repository for any purpose, please cite:
 
 ```bash
     ADD Citation here

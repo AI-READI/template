@@ -28,3 +28,14 @@
   
 </tbody>
 </table>
+
+# Project Setup
+
+- [x] Work from GitHub with a GitHub repository dedicated to your software in the AI-READI organization
+- [ ] Follow GitHub best practices
+- [ ] Make the GitHub repository public from day one
+- [ ] Choose a license and include a LICENSE file containing standard license terms in the root of your GitHub repository
+  - [ ] All software in the AI-READI project will be developed under the MIT license (unless exceptions)
+- [ ] Add a README.md file in the root of your GitHub repository and include at least the following information as they become available
+  - [ ] Brief description of the software
+  - [ ] How to run the software (from the source code)
