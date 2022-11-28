@@ -107,6 +107,16 @@ This project is funded by the NIH under award number 1OT2OD032644. The content i
 
 Add any other acknowledgements here.
 
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
 <a href="https://aireadi.org">
   <img src="https://github.com/AI-READI/AI-READI-logo/raw/main/logo/png/option2.png" height="200" />
 </a>
+
+</div>
