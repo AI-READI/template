@@ -29,7 +29,7 @@ Project one-liner description
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6407300.svg" alt="doi" />
   </a>
   <a href="https://fairdataihub.org/fairshare">
-    <img src="https://img.shields.io/badge/Curated%20with-FAIRshare-yellow" alt="Curated with FAIRshare" />
+    <img src="https://raw.githubusercontent.com/fairdataihub/FAIRshare/main/badge.svg" alt="Curated with FAIRshare" />
   </a>
 </p>
    
