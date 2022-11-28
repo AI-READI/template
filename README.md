@@ -1,4 +1,54 @@
-# Projet Title
+<div align="center">
+
+<img src="https://freesvg.org/img/1653682897science-svgrepo-com.png" alt="logo" width="200" height="auto" />
+
+<br />
+
+<h1>Project Title</h1>
+
+<p>
+Project one-liner description
+</p>
+
+<br />
+
+<p>
+  <a href="https://github.com/AI-READI/template/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/AI-READI/template.svg?style=flat-square" alt="contributors" />
+  </a>
+  <a href="https://github.com/AI-READI/template/stargazers">
+    <img src="https://img.shields.io/github/stars/AI-READI/template.svg?style=flat-square" alt="stars" />
+  </a>
+  <a href="https://github.com/AI-READI/template/issues/">
+    <img src="https://img.shields.io/github/issues/AI-READI/template.svg?style=flat-square" alt="open issues" />
+  </a>
+  <a href="https://github.com/AI-READI/template/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/AI-READI/template.svg?style=flat-square" alt="license" />
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.6407300">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6407300.svg" alt="doi" />
+  </a>
+  <a href="https://fairdataihub.org/fairshare">
+    <img src="https://img.shields.io/badge/Curated%20with-FAIRshare-yellow" alt="Curated with FAIRshare" />
+  </a>
+</p>
+   
+<h4>
+    <a href="#">Sublink 1</a>
+  <span> · </span>
+    <a href="#">Documentation</a>
+  <span> · </span>
+    <a href="#">Changelog</a>
+  <span> · </span>
+    <a href="https://github.com/AI-READI/template/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="#">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
+---
 
 ## Description
 
