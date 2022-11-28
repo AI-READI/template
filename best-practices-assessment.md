@@ -1,3 +1,5 @@
+# Best practices assessment
+
 ## 1. Project Setup
 
 - [x] 1.1. Work from GitHub with a GitHub repository dedicated to your software in the [AI-READI organization](https://github.com/AI-READI)
@@ -81,8 +83,6 @@
 
 ## 7. Suggested automation tools/Developer experience
 
-In this section, we provide suggestions for automated tools and approaches to fulfilling some of the items from sections 1-6. These are purely suggestions and developers are free to follow other approaches as long as they fulfill all the items from sections 1-6.
-
 - [x] 7.1. Unless you have a preferred code editor, use [VS Code](https://code.visualstudio.com/) for developing your code and include the `.vscode` directory in your GitHub repository.
 - [x] 7.2. Use these VS Code extensions (or their equivalent in your preferred code editor) as applicable to your project to automatically implement some elements of the best practices:
   - [x] 7.2.1. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Help you create more human-friendly comments and visualize them in your code.
@@ -97,12 +97,12 @@ In this section, we provide suggestions for automated tools and approaches to fu
     - [ ] 7.4.1.2. End-to-end - [Cypress](https://www.cypress.io/)
   - [ ] 7.4.2. Python:
     - [ ] 7.4.1.3. Unit/Integration - [pytest](https://docs.pytest.org/en/7.2.x/)
-- [x] 7.5. Use [GitHub actions](https://github.com/features/actions) to automate tasks such as fixing grammatical errors, formatting code, managing GitHub issue submission, stale issues, and PRs, running unit/integration or end-to-end tests, building and releasing app/api/documentation versions on GitHub and Zenodo. Include GitHub action workflows in a `.github/workflows` folder in your repository. Standard workflow files are maintained for the AI-READI project in the `github-workflows` repository and can be copied into your software repository.
-- [ ] 7.6. Use [TypeScript](https://www.typescriptlang.org/) for any web/Node.js applications instead of JavaScript where possible. TypeScript is a strongly typed programming language that extends JavaScript, for a better developer experience and more fault-tolerant applications.
+- [x] 7.5. Use [GitHub actions](https://github.com/features/actions) to automate tasks such as fixing grammatical errors, formatting code, managing GitHub issue submission, stale issues, and PRs, running unit/integration or end-to-end tests, building and releasing app/api/documentation versions on GitHub and Zenodo.
+- [ ] 7.6. Use [TypeScript](https://www.typescriptlang.org/) for any web/Node.js applications instead of JavaScript where possible.
 - [x] 7.7. Use [Docusaurus](https://docusaurus.io/) for developing and maintaining simple hostable development and/or user documentation
 - [x] 7.8. Use [FAIRshare](https://docs.fairshareapp.io/docs/intro) to create metadata files easily, make GitHub releases, share software files on Zenodo, and register the software on bio.tools
 - [ ] 7.9. Mirror repository on GitLab for backup. The AI-READI organization has GitLab sync automatically set up so no further actions are required
 
 # Additional Information
 
-Use this section to add any additional information that you think is relevant to the assessment of your software.
+Use this file to assess your compliance with the [best practices](https://github.com/AI-READI/software-development-best-practices) and to document any additional information that you would like to share with the AI-READI team. You may add any additional details to the checklist sections as needed.
