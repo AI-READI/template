@@ -13,7 +13,7 @@ date-released: "2022-11-28"
 identifiers:
   - description: "DOI for this software's record on Zenodo"
     type: doi
-    value: "https://doi.org/10.5281/zenodo.7373697"
+    value: "10.5281/zenodo.7373697"
 keywords:
   - "AI-READI"
   - template
